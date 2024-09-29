@@ -1,1 +1,1 @@
-First commit - test
+This repository contains code implementations for various machine learning concepts and techniques covered throughout the course Practical Introduction to Machine Learning Labs - M2 Data Science at École polytechnique
